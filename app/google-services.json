@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "23612222870",
+    "firebase_url": "https://quizzer-6b84f.firebaseio.com",
+    "project_id": "quizzer-6b84f",
+    "storage_bucket": "quizzer-6b84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23612222870:android:9d1465ede98af0ac4841b7",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23612222870-doob24bqp3vmqmoli06nomrupm9icc8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmp3mMK7a01xBfHwFDxTj6dByQsyBWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23612222870-doob24bqp3vmqmoli06nomrupm9icc8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23612222870-6na3397o7qqtca0qjada8uqhhf7agbvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizeadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23612222870:android:02ffeffcbf310a9e4841b7",
+        "android_client_info": {
+          "package_name": "com.example.onlinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23612222870-doob24bqp3vmqmoli06nomrupm9icc8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmp3mMK7a01xBfHwFDxTj6dByQsyBWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23612222870-doob24bqp3vmqmoli06nomrupm9icc8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23612222870-6na3397o7qqtca0qjada8uqhhf7agbvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizeadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
